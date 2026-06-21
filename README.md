@@ -20,6 +20,12 @@ Python pipeline that automatically processes audio files, cleans background nois
 
 🚧 Planning
 
+## Community
+
+Join the discussion:
+
+[![Matrix](https://img.shields.io/badge/Matrix-%23audiomoth-pipeline-black?logo=matrix)](https://matrix.to/#/#audiomoth-pipeline:matrix.org)
+
 ## License
 
 MIT — see [LICENSE](LICENSE)
